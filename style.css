@@ -19,7 +19,7 @@ ul{
 	display:inline-block ;
 }
 section{
-	
+	text-align: center;
 }
 a{
 	text-decoration: none;
@@ -32,4 +32,10 @@ a{
 	height: 30px;
 	font-size: 25px;
 	color: white;
+}
+#c{
+	color: blue;
+}
+#qrcode{
+	text-align: center;
 }
